@@ -1,1 +1,4 @@
 TODO list
+ make new-plugin
+ fix error with flow
+ 
